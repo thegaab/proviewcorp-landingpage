@@ -10,45 +10,45 @@ import user6 from "../assets/profile-pictures/user6.jpg";
 export const navItems = [
   { label: "Serviços", href: "#services" },
   { label: "Certificados", href: "#certifications" },
-  { label: "Sobre nós", href: "#about-us" },
+  // { label: "Sobre nós", href: "#certifications" },
 ];
 
 export const casesCompany = [
   {
-    user: "John Doe",
-    company: "Stellar Solutions",
+    user: "Tiago Gabriel",
+    company: "Cliente",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "Equipe super profissional, atenciosa, pro-ativa e carismática, além de terem feito um serviço impecável possuem uma sensibilidade sem igual.",
   },
   {
-    user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    user: "MiriAr Br Refrigeração",
+    company: "Cliente",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "Ótimo profissional, competente e comprometido, indico para os meus clientes. Sempre atencioso, ofereci um bom atendimento.",
   },
   {
-    user: "David Johnson",
-    company: "Quantum Innovations",
+    user: "Francisco Oliver",
+    company: "Cliente",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "Excelente trabalho, pontualidade e prestatividade, depois de muito buscar foi essa a empresa que conseguiu resolver meu problema de planta e regularização do meu imóvel,indico com certeza!",
   },
   {
-    user: "Ronee Brown",
-    company: "Fusion Dynamics",
+    user: "André Tavares",
+    company: "Cliente",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Proview, conta com uma estrutura e profissionais altamente qualificados, em específico o Sr. Rafael Roberto no qual está a frente dos projetos da empresa, uma empresa séria e sua entrega final supera sempre minhas expectativas e de minha empresa em geral.",
   },
   {
-    user: "Michael Wilson",
-    company: "Visionary Creations",
+    user: "Jonatha Moreira Fernandes",
+    company: "Cliente",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "Super recomendo. Profissionais altamente capacitados e atenciosos. Superou minhas expectativas; estou muito satisfeito.",
   },
   {
-    user: "Emily Davis",
-    company: "Synergy Systems",
+    user: "Camila Tarini",
+    company: "Cliente",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "Uma empresa que visa o melhor para seus clientes, profissional comprometido todos que os clientes passam por essa empresa recebem o melhor serviço.",
   },
 ];
 

@@ -14,7 +14,7 @@ const HeroSection = () => {
         Com um compromisso inabalável com a excelência, combinamos design visionário, técnicas de construção avançadas e práticas sustentáveis para entregar projetos residenciais, comerciais e industriais que atendem às necessidades e expectativas dos nossos clientes. 
         </p>
         <div className="flex justify-center my-10">
-            <a href="#" className="bg-gradient-to-r from-blue-400 to-blue-800 py-3 px-4 mx-3 rounded-md">
+            <a href="#services" className="bg-gradient-to-r from-blue-400 to-blue-800 py-3 px-4 mx-3 rounded-md">
                 Saiba mais!
             </a>
         </div>
