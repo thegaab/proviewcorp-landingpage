@@ -131,7 +131,6 @@ export const importantLinks = [
 ];
 
 export const socialsLinks = [
-  { href: "#", text: "Instagram" },
-  { href: "#", text: "Whatsapp" },
-  { href: "#", text: "E-mail" },
+  { href: "tel:+5511941354764", text: "Whatsapp" },
+  { href: "mailto:proviewraf@icloud.com", text: "E-mail" },
 ];
