@@ -23,6 +23,7 @@ const CasesSection = () => {
                 </div>
             ))}
         </div>
+        <p className="text-xs text-slate-300">Comentarios fornecidos pelo Google places.</p>
     </div>
   )
 }
