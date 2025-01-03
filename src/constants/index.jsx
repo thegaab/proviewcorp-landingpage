@@ -75,7 +75,10 @@ export const features = [
     icon: <ShieldCheck />,
     text: "Regularização de Imóvel junto PMSP",
     description:
-      "Análise da edificação e seus documentos; Identificação de possíveis irregularidades construtivas comrelação às leis e normas vigentes(Código de Obras, Lei de Zoneamento, etc);Elaboração do projeto de regularização da edificação;Montagem e gerenciamento do processo para a regularizaçãoou anistia de imóveis;Obtenção do Auto de Regularização de Imóvel."
+    `Análise da edificação e seus documentos; Identificação de possíveis irregularidades construtivas com relação às leis e normas vigentes(Código de Obras, Lei de Zoneamento, etc); 
+    Elaboração do projeto de regularização da edificação; 
+    Montagem e gerenciamento do processo para a regularização ou anistia de imóveis; 
+    Obtenção do Auto de Regularização de Imóvel.`    
   },
   {
     icon: <BellElectric />,
